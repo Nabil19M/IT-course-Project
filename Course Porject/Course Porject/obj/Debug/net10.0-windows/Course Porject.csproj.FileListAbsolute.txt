@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Videos\Course Porject\Course Porject\bin\Debug\net10.0-windows\Course Porject.exe
+C:\Users\Lenovo\Videos\Course Porject\Course Porject\bin\Debug\net10.0-windows\Course Porject.deps.json
+C:\Users\Lenovo\Videos\Course Porject\Course Porject\bin\Debug\net10.0-windows\Course Porject.runtimeconfig.json
+C:\Users\Lenovo\Videos\Course Porject\Course Porject\bin\Debug\net10.0-windows\Course Porject.dll
+C:\Users\Lenovo\Videos\Course Porject\Course Porject\bin\Debug\net10.0-windows\Course Porject.pdb
+C:\Users\Lenovo\Videos\Course Porject\Course Porject\obj\Debug\net10.0-windows\Course_Porject.Form1.resources
+C:\Users\Lenovo\Videos\Course Porject\Course Porject\obj\Debug\net10.0-windows\Course Porject.csproj.GenerateResource.cache
+C:\Users\Lenovo\Videos\Course Porject\Course Porject\obj\Debug\net10.0-windows\Course Porject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Videos\Course Porject\Course Porject\obj\Debug\net10.0-windows\Course Porject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Videos\Course Porject\Course Porject\obj\Debug\net10.0-windows\Course Porject.AssemblyInfo.cs
+C:\Users\Lenovo\Videos\Course Porject\Course Porject\obj\Debug\net10.0-windows\Course Porject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Videos\Course Porject\Course Porject\obj\Debug\net10.0-windows\Course Porject.dll
+C:\Users\Lenovo\Videos\Course Porject\Course Porject\obj\Debug\net10.0-windows\refint\Course Porject.dll
+C:\Users\Lenovo\Videos\Course Porject\Course Porject\obj\Debug\net10.0-windows\Course Porject.pdb
+C:\Users\Lenovo\Videos\Course Porject\Course Porject\obj\Debug\net10.0-windows\Course Porject.genruntimeconfig.cache
+C:\Users\Lenovo\Videos\Course Porject\Course Porject\obj\Debug\net10.0-windows\ref\Course Porject.dll
