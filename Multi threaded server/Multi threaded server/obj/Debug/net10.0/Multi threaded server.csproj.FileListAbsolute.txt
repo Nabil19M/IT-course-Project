@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Videos\Multi threaded server\Multi threaded server\bin\Debug\net10.0\Multi threaded server.exe
+C:\Users\Lenovo\Videos\Multi threaded server\Multi threaded server\bin\Debug\net10.0\Multi threaded server.deps.json
+C:\Users\Lenovo\Videos\Multi threaded server\Multi threaded server\bin\Debug\net10.0\Multi threaded server.runtimeconfig.json
+C:\Users\Lenovo\Videos\Multi threaded server\Multi threaded server\bin\Debug\net10.0\Multi threaded server.dll
+C:\Users\Lenovo\Videos\Multi threaded server\Multi threaded server\bin\Debug\net10.0\Multi threaded server.pdb
+C:\Users\Lenovo\Videos\Multi threaded server\Multi threaded server\obj\Debug\net10.0\Multi threaded server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Videos\Multi threaded server\Multi threaded server\obj\Debug\net10.0\Multi threaded server.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Videos\Multi threaded server\Multi threaded server\obj\Debug\net10.0\Multi threaded server.AssemblyInfo.cs
+C:\Users\Lenovo\Videos\Multi threaded server\Multi threaded server\obj\Debug\net10.0\Multi threaded server.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Videos\Multi threaded server\Multi threaded server\obj\Debug\net10.0\Multi threaded server.dll
+C:\Users\Lenovo\Videos\Multi threaded server\Multi threaded server\obj\Debug\net10.0\refint\Multi threaded server.dll
+C:\Users\Lenovo\Videos\Multi threaded server\Multi threaded server\obj\Debug\net10.0\Multi threaded server.pdb
+C:\Users\Lenovo\Videos\Multi threaded server\Multi threaded server\obj\Debug\net10.0\Multi threaded server.genruntimeconfig.cache
+C:\Users\Lenovo\Videos\Multi threaded server\Multi threaded server\obj\Debug\net10.0\ref\Multi threaded server.dll
